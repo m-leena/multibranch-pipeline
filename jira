@@ -1,0 +1,35 @@
+
+    Advanced Roadmaps for Jira Data Center and Server support
+    support.atlassian.com
+
+    Advanced Roadmaps for Jira Data Center and Server support. Documentation. Get help using and administering products . View documentation. Community. Find answers, support, and inspiration from other Atlassian users. View the community. Suggestions and bug ...
+    Use the Jira Cloud Migration Assistant to migrate | Atlassian ...
+    support.atlassian.com
+
+    If you're on Jira version 8.14 or higher, the migration assistant is automatically installed in your Server instance. To install the app: In Jira Server or Data Center go to Settings > Manage apps. Choose Find new apps and search for Jira Cloud Migration Assistant. Choose Install and you're all set.
+
+    GitHub - sinanejadebrahim/jira-crack: jira-crack
+    github.com
+
+    check out the bottom, you can crack Jira Until year 2089 :D. install and start postgresql with these commands. sudo apt-get update sudo apt-get install postgresql postgresql-contrib -y sudo update-rc.d postgresql enable sudo service postgresql start. after that switch to postgre user to make some changes to the database.
+    Jira Core Server - Atlassian Support
+    support.atlassian.com
+
+    Jira Core Server support. Documentation. Get help using and administering products. View documentation. Community. Find answers, support, and inspiration from other Atlassian users. View the community. Suggestions and bug reports. Find existing feature suggestions and bug reports.
+    Use forms in Jira Service Management - Atlassian Support
+    support.atlassian.com
+
+    Learn how to view, add, or edit forms on issues. Learn how to reopen a submitted form, delete it, or download it as a PDF or XLSX from an issue. Learn how to copy a form and use it in another service project, business project, or software project on the same site. If you no longer need a form, you can delete it from your service project.
+    Avatar Server for Jira | Atlassian Marketplace
+    marketplace.atlassian.com
+
+    Use the Jira avatar in Bitbucket, Fisheye/Crucible, Bamboo, Jenkins and any app which supports a custom gravatar server. Email aliases support The plugin also support email aliases for Jira users by adding a "mail" user property, which can be a comma delimited list of additional email addresses.
+    Log in with Atlassian account
+    id.atlassian.com
+
+    Log in to Jira, Confluence, and all other Atlassian Cloud products here. Not an Atlassian user? Sign up for free.
+    Advanced Roadmaps for Jira Software ... - Atlassian Marketplace
+    marketplace.atlassian.com
+
+    3.29.0 Jira Server 7.11.0 - 8.11.1 2021-03-05 Manage warnings, early access to visualize dependencies, enhanced issue search. Download. Version 3.29.0 • Released 2021-03-05 • Supported By Atlassian • Paid via Atlassian • Commercial. This release includes: New warning center allows you to diagnose, focus on, and manage issues with ...
+
